@@ -1,4 +1,4 @@
-# 💬 PRODIGY_DS_04 – Sentiment Analysis of Twitter Data Using Power BI
+# 💬  Sentiment Analysis of Twitter Data Using Power BI
 
 ## 🎯 Task Objective:
 Perform sentiment analysis on tweets to classify public opinion as **Positive**, **Negative**, or **Neutral** using Power BI and Python.
@@ -39,10 +39,5 @@ Perform sentiment analysis on tweets to classify public opinion as **Positive**,
 
 ---
 
-## 🙏 Thanks to:
-**Prodigy Infotech** for providing this opportunity to explore Natural Language Processing and visual analytics using Power BI.
-
----
-
-**#SentimentAnalysis #TwitterData #NLP #PowerBI #Python #TextBlob #VADER #DataScience #ProdigyInfotech**
+**#SentimentAnalysis #TwitterData #NLP #PowerBI #Python #TextBlob #VADER #DataScience 
 
